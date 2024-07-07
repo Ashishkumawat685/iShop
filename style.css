@@ -1,0 +1,18 @@
+.nav-link:hover {
+    color: rgb(247, 185, 70);
+    text-decoration: underline;
+}
+
+.navbar-brand:hover {
+    color: orange;
+}
+
+.active:hover {
+    color: orange;
+}
+
+
+
+form {
+    width: 400px;
+}
